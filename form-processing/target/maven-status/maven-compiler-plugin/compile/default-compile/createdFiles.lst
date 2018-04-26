@@ -1,0 +1,4 @@
+org\apache\struts\register\action\Register.class
+org\apache\struts\helloworld\action\HelloWorldAction.class
+org\apache\struts\helloworld\model\MessageStore.class
+org\apache\struts\register\model\Person.class
